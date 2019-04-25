@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1553671179 source:d:\asd_1303184083_tubes_hrd\tubes lapas\main.cpp
+	<iostream>
+	"Parent.h"
+
+1553670896 source:d:\asd_1303184083_tubes_hrd\tubes lapas\parent.cpp
+	"Parent.h"
+
+1553669988 d:\asd_1303184083_tubes_hrd\tubes lapas\parent.h
+	<iostream>
+
+1553697643 source:d:\documents\code blocks\asd_1303184083_tubes_hrd\tubes lapas\main.cpp
+	<iostream>
+	"Parent.h"
+
+1554734151 d:\documents\code blocks\asd_1303184083_tubes_hrd\tubes lapas\parent.h
+	<iostream>
+
+1554733156 source:d:\documents\code blocks\asd_1303184083_tubes_hrd\tubes lapas\parent.cpp
+	"Parent.h"
+
+1556191463 source:c:\users\alfan-pc\downloads\asd_1303184065_tubes\lapas jon\asd_1303184083_tubes_hrd\tubes lapas\main.cpp
+	<iostream>
+	"Parent.h"
+
+1556191363 c:\users\alfan-pc\downloads\asd_1303184065_tubes\lapas jon\asd_1303184083_tubes_hrd\tubes lapas\parent.h
+	<iostream>
+
+1556184845 source:c:\users\alfan-pc\downloads\asd_1303184065_tubes\lapas jon\asd_1303184083_tubes_hrd\tubes lapas\parent.cpp
+	"Parent.h"
+
+1556199954 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\tubes fix\main.cpp
+	<iostream>
+	"Parent.h"
+	"child.h"
+
+1556194458 d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\tubes fix\parent.h
+	<iostream>
+	"child.h"
+
+1556200021 d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\tubes fix\child.h
+	<iostream>
+
+1556200801 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\tubes fix\parent.cpp
+	"Parent.h"
+
+1556200776 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\tubes fix\child.cpp
+	"child.h"
+
